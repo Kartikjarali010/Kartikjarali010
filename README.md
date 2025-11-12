@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I’m Kartik , a passionate developer and AI enthusiast always eager to explore new technologies and build impactful solutions. I love working on AI-powered projects, web applications, and innovative hacks that can make a difference.<br><br>Currently pursuing various tech projects and improving my skills in machine learning, full-stack development, and embedded systems. You can find me experimenting with JavaScript, Python, and emerging technologies like Rust.<br><br>🚀 I recently presented a project at the Global Ideathon 2024, showcasing an AI ecosystem that adapts to human emotions, thoughts, and needs. When I’m not coding, I’m diving into hackathons and pushing the limits of what’s possible.<br><br>Let’s connect and build something awesome together!
 
-[![](https://visitcount.itsvg.in/api?id=Kartikjarali010&icon=7&color=12)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=Kartikjarali010&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 
@@ -17,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikjarali010&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kartikjarali010&icon=7&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kartikjarali010&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kartik_jarali) 
