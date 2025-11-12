@@ -1,6 +1,10 @@
 # 💫 About Me:
 👋 Hi there! I’m Kartik , a passionate developer and AI enthusiast always eager to explore new technologies and build impactful solutions. I love working on AI-powered projects, web applications, and innovative hacks that can make a difference.<br><br>Currently pursuing various tech projects and improving my skills in machine learning, full-stack development, and embedded systems. You can find me experimenting with JavaScript, Python, and emerging technologies like Rust.<br><br>🚀 I recently presented a project at the Global Ideathon 2024, showcasing an AI ecosystem that adapts to human emotions, thoughts, and needs. When I’m not coding, I’m diving into hackathons and pushing the limits of what’s possible.<br><br>Let’s connect and build something awesome together!
 
+[![](https://visitcount.itsvg.in/api?id=Kartikjarali010&icon=7&color=12)](https://visitcount.itsvg.in)
+
+---
+
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-jarali-6b498728a/)
